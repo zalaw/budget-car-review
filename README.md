@@ -1,7 +1,7 @@
 # budget-car-review
 My graduation thesis
 
-Deployed here: https://secret-meadow-59420.herokuapp.com/
+Deployed here: https://car-review-bw06.onrender.com
 
 I'm late to uploading this project to GitHub by almost 2 years 😳
 
